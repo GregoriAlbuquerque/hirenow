@@ -1,0 +1,19 @@
+.curriculo{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    margin-top: 6vh;
+    font-size: 1.2em;
+}
+
+.container-dados{
+    width: 80%;
+}
+
+.conatiner{
+    display: flex;
+}
+
+p{
+    text-align: justify;
+}
